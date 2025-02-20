@@ -1,0 +1,1 @@
+This will check the sensor whether it is working or not. If the sensor is not working try regulating its potentiometer to increase or decrease it's sensitivity.
